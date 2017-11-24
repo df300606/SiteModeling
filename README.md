@@ -1,7 +1,7 @@
 # SiteModeling
 Contains all Site Modeling related R files including:
-  - Cycle Times
+  - Quick Design and Redesign Cycle Times
   - Shinyapps.io code
-  - Goodle Data Studio code
+  - Goodle Data Studio datasets
 
 
